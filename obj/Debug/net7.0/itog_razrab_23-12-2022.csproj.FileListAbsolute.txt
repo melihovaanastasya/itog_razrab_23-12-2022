@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\bin\Debug\net7.0\itog_razrab_23-12-2022.exe
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\bin\Debug\net7.0\itog_razrab_23-12-2022.deps.json
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\bin\Debug\net7.0\itog_razrab_23-12-2022.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\bin\Debug\net7.0\itog_razrab_23-12-2022.dll
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\bin\Debug\net7.0\itog_razrab_23-12-2022.pdb
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\obj\Debug\net7.0\itog_razrab_23-12-2022.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\obj\Debug\net7.0\itog_razrab_23-12-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\obj\Debug\net7.0\itog_razrab_23-12-2022.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\obj\Debug\net7.0\itog_razrab_23-12-2022.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\obj\Debug\net7.0\itog_razrab_23-12-2022.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\obj\Debug\net7.0\itog_razrab_23-12-2022.dll
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\obj\Debug\net7.0\refint\itog_razrab_23-12-2022.dll
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\obj\Debug\net7.0\itog_razrab_23-12-2022.pdb
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\obj\Debug\net7.0\itog_razrab_23-12-2022.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\итоговый проект\itog_razrab_23-12-2022\obj\Debug\net7.0\ref\itog_razrab_23-12-2022.dll
